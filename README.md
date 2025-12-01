@@ -13,8 +13,8 @@ Note:
 
 After making changes in react app, run "npm run build" to build the app. After that create a file called netlify.toml (file name can be anything with extension .toml) and paste the following:
 
-[[redirects]]
+    [[redirects]]
 
-    from = "/*"
-    to = "/index.html"
-    status = 200
+        from = "/*"
+        to = "/index.html"
+        status = 200
