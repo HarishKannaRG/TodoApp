@@ -1,0 +1,7 @@
+The following are the environment variables used while running the spring boot app in local.
+Copy paste these values in actual env file while running it in local
+
+DATASOURCE_URL=jdbc:mysql://localhost:3306/todo_db_dev?useSSL=false&allowPublicKeyRetrieval=true
+DATASOURCE_USER=root
+DATASOURCE_PASSWORD=root
+FRONTEND_URL=http://localhost:5173
