@@ -11,7 +11,7 @@ React URL - https://jolly-licorice-c47c57.netlify.app/
 
 Note:
 
-After making changes in react app, run "npm run build" to build the app. After that create a file called netlify.toml (file name can be anything with extension .toml) and paste the following:
+After making changes in react app, run "npm run build" to build the app. After that create a file called netlify.toml (file name can be anything with extension .toml) and paste the following (indentation should also be the same):
 
     [[redirects]]
 
