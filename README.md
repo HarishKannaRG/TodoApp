@@ -19,5 +19,5 @@ Note:
         to = "/index.html"
         status = 200
 
-2. The env file has localhost related details for security. To connect it to railway app and netlify, get the environment variables configured in render. 
+2. The env file in springboot has localhost related details for security. To connect it to railway app and netlify, get the environment variables configured in render. 
 
